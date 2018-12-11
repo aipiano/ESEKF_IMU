@@ -13,3 +13,8 @@ You can use [evo](https://github.com/MichaelGrupp/evo) to show both trajectories
 ![xyz](https://github.com/aipiano/ESEKF_IMU/blob/master/images/xyz.png?raw=true)
 
 ![rpy](https://github.com/aipiano/ESEKF_IMU/blob/master/images/rpy.png?raw=true)
+
+# Reference
+1. [Quaternion kinematics for the error-state Kalman filter](https://arxiv.org/abs/1711.02508)
+2. State Estimation for Robotics.
+3. Probabilistic Robotics.
